@@ -37,7 +37,7 @@
     "redis": "^3.1.1",
     "redis-server": "^1.2.2",
     "rich-text": "^3.1.0",
-    "sequelize": "^5.8.1",
+    "sequelize": "^6.28.2",
     "sequelize-session-store": "^0.1.0",
     "sharedb": "^1.0.0-beta.23",
     "sharedb-mongo": "^1.0.0-beta.8",
