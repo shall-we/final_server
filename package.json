@@ -40,7 +40,7 @@
     "sequelize": "^6.29.0",
     "sequelize-session-store": "^0.1.0",
     "sharedb": "^1.0.0-beta.23",
-    "sharedb-mongo": "^1.0.0-beta.8",
+    "sharedb-mongo": "^4.1.0",
     "socket.io": "^2.2.0",
     "uuid": "^3.3.2",
     "uuid4": "^1.1.4",
